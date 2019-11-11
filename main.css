@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.nkar {
+  background-image: url("/images/bg.jpg");
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text {
+  padding: 3rem;
+}
+
+.text h1 {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #fff;
+  line-height: 3rem;
+}
+
+.text p {
+  color: #fff;
+  font-size: 1rem;
+}
+
+.forms .form-container {
+  margin: 3rem 3rem 8rem 3rem;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+
+}
+
+.knopka:hover {
+  background: rgb(112, 112, 52);
+  outline: none;
+}
