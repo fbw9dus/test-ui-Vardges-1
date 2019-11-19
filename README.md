@@ -19,9 +19,13 @@ Projekt für Test im UI Modul
 ![](drafts/desktop.JPG)
 ![](drafts/desktop-button-hover.JPG)
 
-###   __/60 Punkten
+###   58/60 Punkten
 #### Punktabzüge für:
-- [_] (10) Elemente passen sich nicht an Fensterbreite an
+- [x] (2) Elemente passen sich nicht an Fensterbreite an
+```diff
+- Logo und Navigationsmenü entsprechen nicht der Vorlage
+- Wenn das Fenster etwas größer ist als der mobile-Breakpoint ist das Formular etwas zu schmal (dafür bibt es keinen Punktabzug)
+```
 - [_] (10) Tags nicht geschlossen oder falsch verschachtelt
 - [_] (5) Block-Tag in Inline-Tag
 - [_] (5) Kinder-Tags im Code nicht eingerückt
